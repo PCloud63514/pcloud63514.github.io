@@ -1,9 +1,32 @@
-# Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+# Cognitive Translation App
+- layout: left
+  name: Cognitive Translation App
+  link: https://github.com/ZAISoft/CognitiveApp
+  github: https://github.com/ZAISoft/CognitiveApp
+  quote: Project State (Private)
+  
+    
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Windows OS 환경에서 발생하는 음성을 각 나라 별 언어로 자동번역하는 프로그램입니다.  
+    STT는 Microsoft의 Cognitive Services API를 사용하였으며 화면 상단에 번역된 텍스트를 자막으로 제공합니다.
+# Cognitive Translation App End
+
+# Story Teller
+- layout: left
+  name: Story Teller
+  link: # https://github.com/ZAISoft/CognitiveApp
+  github: # https://github.com/ZAISoft/CognitiveApp
+  quote: # Project State (Private)
+  
+  description:
+# Cognitive Translation App End
+
+# Gift
+- layout: left
+  name: Gift
+  link: # https://github.com/ZAISoft/CognitiveApp
+  github: # https://github.com/ZAISoft/CognitiveApp
+  quote: # Project State (Private)
+  
+  description:
+# Cognitive Translation App End
