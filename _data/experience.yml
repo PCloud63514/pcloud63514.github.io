@@ -1,10 +1,19 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: 선문대학교
+  
+  job_title: 학생
+  dates: >
+
   quote: >
-   Short description of the company (optional)
+   자격 현황  
+   2019.05.22 정보처리기사  
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    2015년 02월 선문대학교 컴퓨터 공학과 입학.  
+    2015년 08월 선문 BIT Windows Developer 고급 과정 30기 시작.  
+    2016년 02월 선문 BIT Windows Developer 고급 과정 30기 종료.  
+    2018년 03월 병역특례 근무 시작.  
+    2020년 02월 병역특례 근무 종료.  
+      
+      
+    2020년 현재 선문 대학교 복학 후, 프로필 준비 중...  

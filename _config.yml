@@ -46,8 +46,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile-Image.png
 about_content: | # this will include new lines to allow paragraphs
-  2015년 부터 현재까지 C# Window Programming, Android, Spring 등 넓은 범위로 개발을 하였습니다.  
-  인공지능 학습을 위해 2017년 부터 Tensorflow & Keras를 사용하였으며, 최근 음성인식과 관련된 프로젝트를 진행하였습니다.  
+  고등학교 시절 프로그래밍 지식 없이 게임 및 안드로이드 앱 개발  도전이 프로그래밍의 시작이 되었습니다.  
+  "앱에서 자유로이 동작하는 인공지능을 만들어보고 싶다." 라는  단순한 생각 하나로 대학교를 입학하였습니다.  
+    
+  2015년을 시작으로 C# Programming, Android, Spring 등 넓은 범위로 개발 및 학습을 하였습니다.  
+    
+  2017년 병역의무 기간 동안 개인적 흥미로  Tensorflow & Keras를 학습하였으며, 이때의 지식을 활용해 2020년 복학 이후 종합설계의 "음성인식을 통한 자동 자막 제공 프로그램"을 개발하였습니다.  
+  현재 2개월간 ZAISoft 현장실습을 완료 후 포폴과 프로필 작성에 집중하고 있습니다.
   
 
 # Projects Section
@@ -62,7 +67,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  C# Windows Programming, Spring Framework, Android.
+  C# Windows Programming, Spring Framework, Android(JAVA, Kotlin).
 
 # Footer
 footer_show_references: true
