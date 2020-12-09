@@ -44,15 +44,15 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/Profile-Image.png
+about_profile_image: images/Profile-Image.PNG
 about_content: | # this will include new lines to allow paragraphs
-  고등학교 시절 프로그래밍 지식 없이 게임 및 안드로이드 앱 개발  도전이 프로그래밍의 시작이 되었습니다.  
-  "앱에서 자유로이 동작하는 인공지능을 만들어보고 싶다." 라는  단순한 생각 하나로 대학교를 입학하였습니다.  
-    
-  2015년을 시작으로 C# Programming, Android, Spring 등 넓은 범위로 개발 및 학습을 하였습니다.  
-    
-  2017년 병역의무 기간 동안 개인적 흥미로  Tensorflow & Keras를 학습하였으며, 이때의 지식을 활용해 2020년 복학 이후 종합설계의 "음성인식을 통한 자동 자막 제공 프로그램"을 개발하였습니다.  
-  현재 2개월간 ZAISoft 현장실습을 완료 후 포폴과 프로필 작성에 집중하고 있습니다.
+  재학 시절 프로그래밍에 관련된 내용이라면 전부 학습하고자 했습니다. 그 중 가장 큰 관심사는 웹 서비스 개발 이였습니다.
+  다양한 기술을 학습해도 사용자에게 배포하는 과정이나 접근성을 높여야 배운 기술의 가치가 높아진다. 생각하였고 이를 충족할 수 있는 것이
+  백엔드의 웹 서비스 및 안드로이드 개발이였습니다.
+  재학 과정 다양한 프로젝트 경험과 학습을 뒤로하고 2017년 병역복무를 진행하였습니다. 개인적 흥미로  Tensorflow & Keras를 학습하였으며,
+  이때의 지식을 활용해 2020년 복학 이후 종합설계의 "음성인식을 통한 자동 자막 제공 프로그램"을 개발하였습니다.  
+  이와 함께 비슷한 주제로 관련하여 ZAISoft 회사의 현장실습을 진행하였습니다.
+  현재는 취업을 위해 포트폴리오와 프로필 작성에 집중하고 있습니다.
   
 
 # Projects Section
