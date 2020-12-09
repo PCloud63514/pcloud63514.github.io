@@ -59,7 +59,7 @@
 }
 
 .layout {
-  margin-top: 3rem;
+  margin-top: 2.5rem;
 
   .details {
     text-align: left;
@@ -90,17 +90,17 @@
     }
 
     .fa {
-      font-size: 2rem;
+      font-size: 0rem;
     }
 
     .link {
-      font-size: 1.5rem;
+      font-size: 1.1rem;
     }
 
     h4 {
       margin-bottom: 0.1rem;
       font-weight: 500;
-
+	  font-size: 2rem;
       @media print {
         margin-bottom: 0.2rem;
       }
