@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile-Image.PNG
 about_content: | # this will include new lines to allow paragraphs
-  재학 시절 프로그래밍에 관련된 내용이라면 전부 학습하고자 했습니다. 그 중 가장 큰 관심사는 웹 서비스 개발 이였습니다.
+  재학 시절 프로그래밍에 관련된 내용이라면 전부 학습하고자 했습니다. 그 중 가장 큰 관심사는 웹 서비스 개발이였습니다.
   다양한 기술을 학습해도 사용자에게 배포하는 과정이나 접근성을 높여야 배운 기술의 가치가 높아진다. 생각하였고 이를 충족할 수 있는 것이
   백엔드의 웹 서비스 및 안드로이드 개발이였습니다.
   재학 과정 다양한 프로젝트 경험과 학습을 뒤로하고 2017년 병역복무를 진행하였습니다. 개인적 흥미로  Tensorflow & Keras를 학습하였으며,
